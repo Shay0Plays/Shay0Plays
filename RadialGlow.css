@@ -6,7 +6,6 @@
   --rs-small-width: 1.5px; /* Ring width (follows same sizing as above) | Default: 1.5px */
   --rs-medium-width: 2px; /* Default: 2px */
   --rs-large-width: 2px; /* Default: 2px */
-  --rs-avatar-shape: var(--avatar-roundness, 0%); /* Border-radius for profile image | Default: 50% */
   /* Customizable colors */
   --rs-online-color: #43b581; /* Default: #43b581 */
   --rs-idle-color: #faa61a; /* Default: #faa61a */
