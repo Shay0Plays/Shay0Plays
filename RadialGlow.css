@@ -8,9 +8,9 @@
   --rs-large-width: 2px; /* Default: 2px */
   --rs-avatar-shape: var(--avatar-roundness, 50%); /* Border-radius for profile image | Default: 50% */
   /* Customizable colors */
-  --rs-online-color: #299f5b; /* Default: #43b581 */
-  --rs-idle-color: #e6ae3c; /* Default: #faa61a */
-  --rs-dnd-color: #f23f43; /* Default: #f04747 */
+  --rs-online-color: #e6d7ff; /* Default: #43b581 */
+  --rs-idle-color: #e1c4ff; /* Default: #faa61a */
+  --rs-dnd-color: #d2afff; /* Default: #f04747 */
   --rs-offline-color: #a6adc8; /* Default: #636b75 */
   --rs-streaming-color: #f5c2e7; /* Default: #643da7 */
   --rs-invisible-color: #80848e; /* Default: #747f8d */
